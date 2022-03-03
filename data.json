@@ -1,0 +1,257 @@
+{
+  "status": true,
+  "data": [
+    {
+      "row": 2,
+      "state": "AK",
+      "subdiv": "S",
+      "countycode": 9,
+      "countyname": "ANCHORAGE QUAD"
+    },
+    {
+      "row": 3,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 23,
+      "countyname": "BARROW QUAD"
+    },
+    {
+      "row": 4,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 29,
+      "countyname": "BEECHEY POINT QUAD"
+    },
+    {
+      "row": 5,
+      "state": "AK",
+      "subdiv": "S",
+      "countycode": 69,
+      "countyname": "CORDOVA QUAD"
+    },
+    {
+      "row": 6,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 73,
+      "countyname": "DE LONG MTS"
+    },
+    {
+      "row": 7,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 89,
+      "countyname": "FLAXMAN ISLAND QUAD"
+    },
+    {
+      "row": 8,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 103,
+      "countyname": "HARRISON BAY QUAD"
+    },
+    {
+      "row": 9,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 119,
+      "countyname": "IKPIKPUK RIVER QUAD"
+    },
+    {
+      "row": 10,
+      "state": "AK",
+      "subdiv": "S",
+      "countycode": 133,
+      "countyname": "KENAI QUAD"
+    },
+    {
+      "row": 11,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 137,
+      "countyname": "KILLIK RIVER QUAD"
+    },
+    {
+      "row": 12,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 163,
+      "countyname": "MEADE RIVER QUAD"
+    },
+    {
+      "row": 13,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 179,
+      "countyname": "MT MICHELSON QUAD"
+    },
+    {
+      "row": 14,
+      "state": "AK",
+      "subdiv": "S",
+      "countycode": 231,
+      "countyname": "SELDOVIA QUAD"
+    },
+    {
+      "row": 15,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 279,
+      "countyname": "TESHEKPUK QUAD"
+    },
+    {
+      "row": 16,
+      "state": "AK",
+      "subdiv": "S",
+      "countycode": 283,
+      "countyname": "TYONEK QUAD"
+    },
+    {
+      "row": 17,
+      "state": "AK",
+      "subdiv": "N",
+      "countycode": 287,
+      "countyname": "UMIAT QUAD"
+    },
+    {
+      "row": 18,
+      "state": "AK",
+      "subdiv": 88,
+      "countycode": 990,
+      "countyname": "OFFSHORE-STATE-NORTH"
+    },
+    {
+      "row": 19,
+      "state": "AK",
+      "subdiv": 99,
+      "countycode": 990,
+      "countyname": "OFFSHORE-STATE-SOUTH"
+    },
+    {
+      "row": 20,
+      "state": "AK",
+      "subdiv": "AA",
+      "countycode": 995,
+      "countyname": "OFFSHORE-FEDERAL-ARCTIC"
+    },
+    {
+      "row": 21,
+      "state": "AK",
+      "subdiv": "PA",
+      "countycode": 995,
+      "countyname": "OFFSHORE-FEDERAL-PACIFIC"
+    },
+    {
+      "row": 22,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 3,
+      "countyname": "BALDWIN"
+    },
+    {
+      "row": 23,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 7,
+      "countyname": "BIBB"
+    },
+    {
+      "row": 24,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 9,
+      "countyname": "BLOUNT"
+    },
+    {
+      "row": 25,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 23,
+      "countyname": "CHOCTAW"
+    },
+    {
+      "row": 26,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 25,
+      "countyname": "CLARKE"
+    },
+    {
+      "row": 27,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 35,
+      "countyname": "CONECUH"
+    },
+    {
+      "row": 28,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 39,
+      "countyname": "COVINGTON"
+    },
+    {
+      "row": 29,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 53,
+      "countyname": "ESCAMBIA"
+    },
+    {
+      "row": 30,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 57,
+      "countyname": "FAYETTE"
+    },
+    {
+      "row": 31,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 59,
+      "countyname": "FRANKLIN"
+    },
+    {
+      "row": 32,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 63,
+      "countyname": "GREENE"
+    },
+    {
+      "row": 33,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 65,
+      "countyname": "HALE"
+    },
+    {
+      "row": 34,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 73,
+      "countyname": "JEFFERSON"
+    },
+    {
+      "row": 35,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 75,
+      "countyname": "LAMAR"
+    },
+    {
+      "row": 36,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 79,
+      "countyname": "LAWRENCE"
+    },
+    {
+      "row": 37,
+      "state": "AL",
+      "subdiv": "",
+      "countycode": 85,
+      "countyname": "LOWNDES"
+    }
+  ]
+}
