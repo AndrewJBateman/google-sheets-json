@@ -26,11 +26,12 @@
 
 ## :camera: Screenshots
 
-![Image](./imgs/sheets.png)
+![Image](./img/sheet.png)
+![Image](./img/xls.png)
 
 ## :signal_strength: Technologies
 
-* [Google Sheets](https://www.google.com/sheets/about/)
+* [Google Apps Scripts](https://developers.google.com/apps-script)
 
 ## :floppy_disk: Setup
 
